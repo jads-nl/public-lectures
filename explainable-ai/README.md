@@ -7,5 +7,9 @@ Despite the widespread consensus that explainable AI (XAI) is a _sine qua non_ f
 - Know how to communicate explainability and address issues pertaining to trustworthiness for different stakeholders, using different perspectives on explainable AI
 - Know how to apply most commonly used techniques for explaining trained models
 
+## Syllabus
+- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by Christoph Molar as basis
+- Additional topics, examples etc. from selected journal papers
+
 ## For discussion
 - Does it make sense to include uncertainty in this lecture? I think it fits to discuss epistemic and aleatoric uncertainty, in line with discussion about explanaitions seeking to uncover causality
