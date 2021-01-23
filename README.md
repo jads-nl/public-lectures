@@ -1,5 +1,3 @@
-# Free cultural works for teachning Machine Learning
-
 Thanks to the generosity and support of JADS, I can happily share the vast majority of my teaching materials as [free cultural works](https://creativecommons.org/share-your-work/public-domain/freeworks/). These teaching materials are available in the following public locations:
 
 - [This GitHub repository](https://github.com/jads-nl/public-lectures), which includes Jupyter Notebooks, files, reading material and pdf versions of the lecture notes.
