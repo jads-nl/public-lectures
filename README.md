@@ -2,7 +2,7 @@ Thanks to the generosity and support of JADS, I can happily share the vast major
 
 - [This GitHub repository](https://github.com/jads-nl/public-lectures), which includes Jupyter Notebooks, files, reading material and pdf versions of the lecture notes.
 - Various GitHub repositories with data science projects and challenges to be used in conjunction with the lectures:
-  - [Discovery project](https://github.com/jads-nl/discovery-projects), a selection of ‘toy datasets’ suitable for beginners
+  - [Discover projects](https://github.com/jads-nl/discover-projects), a selection of ‘toy datasets’ suitable for beginners
   - 'Execute projects' meant for more intermediate classes:
     - https://github.com/jads-nl/execute-enexis
     - https://github.com/jads-nl/execute-nhs-proms
