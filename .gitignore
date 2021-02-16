@@ -133,3 +133,97 @@ dmypy.json
 
 # altair files
 altair*
+
+nlp/data/linkedin/Account Status History.csv
+
+nlp/data/linkedin/Ad_Targeting.csv
+
+nlp/data/linkedin/Ads Clicked.csv
+
+nlp/data/linkedin/Articles/Articles/hoe-kijk-jij-tegen-de-ontwikkeling-van-kunstmatige-daniel-kapitan.html
+
+nlp/data/linkedin/Articles/Articles/houd-toezicht-op-de-glazen-algoritme-bol-daniel-kapitan.html
+
+nlp/data/linkedin/Causes You Care About.csv
+
+nlp/data/linkedin/Comments.csv
+
+nlp/data/linkedin/Company Follows.csv
+
+nlp/data/linkedin/Connections.csv
+
+nlp/data/linkedin/Contacts.csv
+
+nlp/data/linkedin/Education.csv
+
+nlp/data/linkedin/Email Addresses.csv
+
+nlp/data/linkedin/Endorsement Received Info.csv
+
+nlp/data/linkedin/Hashtag_Follows.csv
+
+nlp/data/linkedin/Honors.csv
+
+nlp/data/linkedin/Inferences_about_you.csv
+
+nlp/data/linkedin/Invitations.csv
+
+nlp/data/linkedin/Jobs/Job Seeker Preferences.csv
+
+nlp/data/linkedin/Jobs/Online Job Postings.csv
+
+nlp/data/linkedin/Jobs/Saved Jobs.csv
+
+nlp/data/linkedin/Languages.csv
+
+nlp/data/linkedin/Logins.csv
+
+nlp/data/linkedin/Member_Follows.csv
+
+nlp/data/linkedin/messages.csv
+
+nlp/data/linkedin/Mobile Applications.csv
+
+nlp/data/linkedin/PhoneNumbers.csv
+
+nlp/data/linkedin/Positions.csv
+
+nlp/data/linkedin/Profile.csv
+
+nlp/data/linkedin/Projects.csv
+
+nlp/data/linkedin/Publications.csv
+
+nlp/data/linkedin/Reactions.csv
+
+nlp/data/linkedin/Receipts.csv
+
+nlp/data/linkedin/Recommendations Given.csv
+
+nlp/data/linkedin/Recommendations Received.csv
+
+nlp/data/linkedin/Registration.csv
+
+nlp/data/linkedin/Rich Media.csv
+
+nlp/data/linkedin/Saved_Items.csv
+
+nlp/data/linkedin/SavedJobAlerts.csv
+
+nlp/data/linkedin/SearchQueries.csv
+
+nlp/data/linkedin/Security Challenges.csv
+
+nlp/data/linkedin/Shares.csv
+
+nlp/data/linkedin/Skills.csv
+
+nlp/data/linkedin/Teammates.csv
+
+nlp/data/linkedin/Videos.csv
+
+nlp/data/linkedin/Votes.csv
+
+nlp/data/RestoReviewRawdata.csv
+
+nlp/data/RestoReviewRawdata.parquet
