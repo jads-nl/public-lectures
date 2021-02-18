@@ -1,7 +1,7 @@
 #  Introduction to Natural Language Processing (NLP) with Python spaCy
 
 ## Learning objectives
-- Understand the basic concepts of probabilistic language models based and how these can be applied to different NLP tasks including sentiment analysis, genre classification and named-entity recognition
+- Understand the basic concepts of probabilistic language models and how these can be applied to different NLP tasks including sentiment analysis, genre classification and named-entity recognition
 - Understand and know how to apply n-grams and word embeddings for feature extraction in a classification pipeline
 - Have a conceptual understanding of transformers and deep learning techniques for NLP
 - Understand and know how to use Python spaCy for NLP and develop reproducible text processing pipelines
