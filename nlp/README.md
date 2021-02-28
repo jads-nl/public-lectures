@@ -21,7 +21,7 @@ It is recommended to study the following material prior to the lecture:
 
 ### Theory
 [Artificial Intelligence: A Modern Approach (4th edition)](http://aima.cs.berkeley.edu/) provides a thorough overview in two chapters:
-- chapter 23 Natural Language Processing explains language models, grammars and parsing
-- chapter 24: Deep Learning for NLP explains word embeddings, RNNs, sequence2sequence models, transformers and transfer learning
+- chapter 23 - Natural Language Processing: explains language models, grammars and parsing
+- chapter 24 - Deep Learning for NLP: explains word embeddings, RNNs, sequence2sequence models, transformers and transfer learning
 
 You need to buy the book, not cheap, but warmly recommended as a desk reference.
